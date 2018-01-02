@@ -72,10 +72,10 @@ class QueryEditor extends Component {
                 <thead>
                   <tr>
                     <td colSpan='2'>
-                      <h4>
+                      <h4 name="pertinentInfoText">
                         Input pertinent information.
                     </h4>
-                      <p>
+                      <p name="submitListText">
                         Submit for a list of errors or an assembled query.
                     </p>
                     </td>

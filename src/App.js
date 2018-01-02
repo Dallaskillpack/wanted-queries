@@ -13,7 +13,7 @@ class App extends Component {
         { routes }
 
         <div>
-          <h6> Version 2.0 </h6>
+          <h6 name="versionText"> Version 2.0 </h6>
         </div>
       </div>
     );
